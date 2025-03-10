@@ -1,10 +1,10 @@
 # zip-library
 
-**Mirrored in:** not yet
+**Mirrored in:** https://github.com/aimms/zip-library
 
 **How-to:** https://how-to.aimms.com/Articles/580/580-download-compressed-files.html
 
-**Community:** not yet
+**Community:** https://community.aimms.com/
 
 
 ## Introduction
